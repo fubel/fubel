@@ -9,4 +9,4 @@ I am a research assistant and PhD student at the Institute of Human-Machine Comm
 
 ### Publications and Teaching
 
-See my [website](fabianherzog.me).
+See my [website](https://fabianherzog.me).
